@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @hanzgooden
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Sam
 - 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on C++ or Python
 
 <!---
 hanzgooden/hanzgooden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
